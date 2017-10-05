@@ -8,7 +8,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ### Build and Run
 1. Install all pre-requisites and dependencies which are described in original Udacity ReadMe.
-2. Unzip archive.
+2. Unzip archive. [Not necessary anymore, since I submitted via Github]
 3. Change directory to where unpacked files are.
 4. Then run from shell (command line)
 	* mkdir build
